@@ -1,2 +1,2 @@
 #!/bin/bash
-egep -c "bin" /etc/passwd
+egep "root" /etc/passwd
